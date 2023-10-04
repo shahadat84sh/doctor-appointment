@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "photo":"https://ibb.co/1r9SdfD",
+        "name":"Ellanna Moore",
+        "designation":"Strategic Initiatives"
+    },
+    {
+        "id":"2",
+        "photo":"https://ibb.co/nQs7xLF",
+        "name":"Aline James",
+        "designation":"MENTOR CLINICAL PATHOLOGY"
+    },
+    {
+        "id":"3",
+        "photo":"https://ibb.co/1KhrqqR",
+        "name":"Angel Santigo",
+        "designation":"HEAD - QUALITY ASSURANCE"
+    },
+    {
+        "id":"4",
+        "photo":"https://ibb.co/L1MX8Jb",
+        "name":"Mary Squires",
+        "designation":"Head of Dentist"
+    },
+    {
+        "id":"5",
+        "photo":"https://ibb.co/1r9SdfD",
+        "name":"Ellanna Moore",
+        "designation":"Head of Nephrology"
+    }
+]
